@@ -1,0 +1,58 @@
+E:\LapTrinhC#\BaiTapNhom\bin\Debug\BaiTapNhom.exe.config
+E:\LapTrinhC#\BaiTapNhom\bin\Debug\BaiTapNhom.exe
+E:\LapTrinhC#\BaiTapNhom\bin\Debug\BaiTapNhom.pdb
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.AssemblyReference.cache
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.Properties.Resources.resources
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.GenerateResource.cache
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.CoreCompileInputs.cache
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.exe
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.pdb
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.FormMain.resources
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.FormLogin.resources
+E:\LapTrinhC#\BaiTapNhom\bin\Debug\Database1.mdf
+E:\LapTrinhC#\BaiTapNhom\bin\Debug\Database1_log.ldf
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.FormRePassword.resources
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.FormSignUp.resources
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.Home.resources
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.FormCTDT.resources
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.FormDKHP.resources
+E:\LapTrinhC#\BaiTapNhom\obj\Debug\BaiTapNhom.FormQLDiem.resources
+E:\HeQuanTriCSDL\BaiTapNhom\bin\Debug\BaiTapNhom.exe.config
+E:\HeQuanTriCSDL\BaiTapNhom\bin\Debug\BaiTapNhom.exe
+E:\HeQuanTriCSDL\BaiTapNhom\bin\Debug\BaiTapNhom.pdb
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.AssemblyReference.cache
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormQLDiem.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormMain.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.Home.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.Properties.Resources.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.GenerateResource.cache
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.CoreCompileInputs.cache
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.exe
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.pdb
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormAward.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormSubject.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormHocPhi.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormNoData.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormLogin.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormSignUp.resources
+E:\HeQuanTriCSDL\BaiTapNhom\obj\Debug\BaiTapNhom.FormRePassword.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\bin\Debug\BaiTapNhom.exe.config
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\bin\Debug\BaiTapNhom.exe
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\bin\Debug\BaiTapNhom.pdb
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormLogin.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormNoData.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormHocPhi.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormQLDiem.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormAward.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormRePassword.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormSignUp.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormSubject.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.FormMain.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.Home.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.exe
+C:\Users\MSI\OneDrive\Documents\Hệ Thống Thông Tin TLU\Hệ quản trị CSDL\Project\BaiTapNhom (2)\BaiTapNhom\obj\Debug\BaiTapNhom.pdb
