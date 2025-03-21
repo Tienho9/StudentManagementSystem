@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HeQuanTriCSDL\\BaiTapNhom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formrepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formrepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formqldiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formqldiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formnodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formnodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formaward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formaward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|E:\\HeQuanTriCSDL\\BaiTapNhom\\oop\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:oop\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formhocphi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|e:\\hequantricsdl\\baitapnhom\\form\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F56C25E-4FBC-4C57-BF1E-1DF4AA2C46EF}|BaiTapNhom.csproj|solutionrelative:form\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\OOP\\Modify.cs",
+              "RelativeDocumentMoniker": "OOP\\Modify.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\OOP\\Modify.cs",
+              "RelativeToolTip": "OOP\\Modify.cs",
+              "ViewState": "AQIAACcCAAAAAAAAAAAAADwCAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:59:13.213Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormQLDiem.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormQLDiem.cs",
+              "RelativeDocumentMoniker": "Form\\FormQLDiem.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormQLDiem.cs [Design]",
+              "RelativeToolTip": "Form\\FormQLDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:20:12.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRePassword.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormRePassword.cs",
+              "RelativeDocumentMoniker": "Form\\FormRePassword.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormRePassword.cs [Design]",
+              "RelativeToolTip": "Form\\FormRePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:27:36.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSubject.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormSubject.cs",
+              "RelativeDocumentMoniker": "Form\\FormSubject.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormSubject.cs [Design]",
+              "RelativeToolTip": "Form\\FormSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:25:47.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\Home.cs",
+              "RelativeDocumentMoniker": "Form\\Home.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\Home.cs [Design]",
+              "RelativeToolTip": "Form\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:25:51.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNoData.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormNoData.cs",
+              "RelativeDocumentMoniker": "Form\\FormNoData.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormNoData.cs [Design]",
+              "RelativeToolTip": "Form\\FormNoData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:20:11.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormMain.cs",
+              "RelativeDocumentMoniker": "Form\\FormMain.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormMain.cs [Design]",
+              "RelativeToolTip": "Form\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:19:37.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormHocPhi.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormHocPhi.cs",
+              "RelativeDocumentMoniker": "Form\\FormHocPhi.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormHocPhi.cs [Design]",
+              "RelativeToolTip": "Form\\FormHocPhi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:19:32.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAward.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormAward.cs",
+              "RelativeDocumentMoniker": "Form\\FormAward.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormAward.cs [Design]",
+              "RelativeToolTip": "Form\\FormAward.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:19:25.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormMain.cs",
+              "RelativeDocumentMoniker": "Form\\FormMain.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormMain.cs",
+              "RelativeToolTip": "Form\\FormMain.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAmwIgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:19:50.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:26:51.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormSignUp.cs [Design]",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormSignUp.cs",
+              "RelativeDocumentMoniker": "Form\\FormSignUp.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormSignUp.cs [Design]",
+              "RelativeToolTip": "Form\\FormSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:27:54.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\Home.cs",
+              "RelativeDocumentMoniker": "Form\\Home.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\Home.cs",
+              "RelativeToolTip": "Form\\Home.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAApwLsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:35:46.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormHocPhi.cs",
+              "DocumentMoniker": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormHocPhi.cs",
+              "RelativeDocumentMoniker": "Form\\FormHocPhi.cs",
+              "ToolTip": "E:\\HeQuanTriCSDL\\BaiTapNhom\\Form\\FormHocPhi.cs",
+              "RelativeToolTip": "Form\\FormHocPhi.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:33:33.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
